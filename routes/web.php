@@ -22,7 +22,5 @@ Route::get('/services','serviceController@index');
 //Backend Routes...............................
 Route::get('/admin_login','adminController@index');
 Route::get('/admin_dashboard','adminController@dashboard');
-Route::view('admin_db','admin.dashboard');
-Route::view('user','admin.user');
-Route::view('table','admin.table');
-Route::view('typography','admin.typography');
+Route::resource('service_provider','ServiceProviderController');
+Route::view('/dashboard','layout.admin_layout2');

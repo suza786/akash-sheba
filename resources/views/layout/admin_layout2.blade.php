@@ -46,9 +46,39 @@
                         </a>
                     </li>
                     <li>
+                        <a class="nav-link" href="/category">
+                            <i class="nc-icon nc-circle-09"></i>
+                            <p>Category</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/user">
+                            <i class="nc-icon nc-circle-09"></i>
+                            <p>Services</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/service_provider">
+                            <i class="nc-icon nc-notes"></i>
+                            <p>Service Providers</p>
+                        </a>
+                    </li>
+                    <li>
                         <a class="nav-link" href="/table">
                             <i class="nc-icon nc-notes"></i>
-                            <p>Table List</p>
+                            <p>Area</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/table">
+                            <i class="nc-icon nc-notes"></i>
+                            <p>Sales History</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="nav-link" href="/table">
+                            <i class="nc-icon nc-notes"></i>
+                            <p>OrderList</p>
                         </a>
                     </li>
                     <li>
